@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lecture 3 array 4/lecture 3 array 4.vcxproj" />
+</Solution>
