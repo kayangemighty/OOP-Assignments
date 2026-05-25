@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Default Constructor.cpp/Default Constructor.cpp.vcxproj" />
-</Solution>
