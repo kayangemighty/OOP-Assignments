@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Call-by-reference swap.cpp/Call-by-reference swap.cpp.vcxproj" />
+</Solution>

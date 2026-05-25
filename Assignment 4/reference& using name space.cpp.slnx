@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="reference&amp; using name space.cpp/reference&amp; using name space.cpp.vcxproj" />
+</Solution>
